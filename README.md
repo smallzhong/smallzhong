@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 
 和一个同学共同开了一个存放笔记的仓库，想了解我学过什么可以通过[https://github.com/SimonZhong2025/Waste-Self-Rescue-Scheme/tree/master/雨初的笔记](https://github.com/SimonZhong2025/Waste-Self-Rescue-Scheme/tree/master/%E9%9B%A8%E5%88%9D%E7%9A%84%E7%AC%94%E8%AE%B0)了解
 
-[![smallzhong's github stats](https://github-readme-stats.vercel.app/api?username=smallzhong)](https://github.com/smallzhong/github-readme-stats)
-
 QQ：2211261685
+
 email:zhongyuchu2001@foxmail.com
+
+[![smallzhong's github stats](https://github-readme-stats.vercel.app/api?username=smallzhong)](https://github.com/smallzhong/github-readme-stats)
