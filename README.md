@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 QQ：2211261685
 
 email:zhongyuchu2001@foxmail.com
-
-[![smallzhong's github stats](https://github-readme-stats.vercel.app/api?username=smallzhong)](https://github.com/smallzhong/github-readme-stats)
+<!--
+[![smallzhong's github stats](https://github-readme-stats.vercel.app/api?username=smallzhong)](https://github.com/smallzhong/github-readme-stats)-->
