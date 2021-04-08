@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 写过的练手项目：
 
-1. 一个用来巩固对PE结构认识的PE查看器https://github.com/smallzhong/ycpack
+1. 一个用来巩固对PE结构认识的PE查看器https://github.com/smallzhong/my_petools
 2. 一个傀儡进程加密壳https://github.com/smallzhong/ycpack
 3. XP系统下过写拷贝全局MessageBox监视器https://github.com/smallzhong/MessageBoxWatcher
 4. 反恐精英cs1.6辅助，可以飞天遁地锁血方框透视https://github.com/smallzhong/cs_cheater
