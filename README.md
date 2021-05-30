@@ -28,6 +28,6 @@ QQ：2211261685
 
 email：zhongyuchu2001@foxmail.com
 
-我的简历： [简历](https://www.jianliben.com/cv/26uk9)
+我的简历： [简历](https://github.com/smallzhong/smallzhong/raw/master/%E9%92%9F%E9%9B%A8%E5%88%9D%E7%AE%80%E5%8E%86-github.pdf)
 <!--
 [![smallzhong's github stats](https://github-readme-stats.vercel.app/api?username=smallzhong)](https://github.com/smallzhong/github-readme-stats)-->
