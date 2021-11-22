@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 写过的练手项目：
 
+1. 一个游戏保护框架https://github.com/smallzhong/ycprotect
 1. 一个用来巩固对PE结构认识的PE查看器https://github.com/smallzhong/my_petools
 2. 一个傀儡进程加密壳https://github.com/smallzhong/ycpack
 3. XP系统下过写拷贝全局MessageBox监视器https://github.com/smallzhong/MessageBoxWatcher
