@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 QQ：2211261685
 
-KEYBASE：http://keybase.io/smallzhong
+keybase：http://keybase.io/smallzhong
 
 email：zhongyuchu2001@foxmail.com
 
