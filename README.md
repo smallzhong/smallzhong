@@ -10,6 +10,8 @@ Feel free to reach out if you have any questions about my work or projects.
 
 ### A Little Fun Challenge
 
+``Reward claimed – the 0.0078 XMR has already been sent.``
+
 I’ve always been fascinated by **end-to-end encryption (E2EE)** — not only because it protects privacy, but because there’s something elegant about two people being able to communicate without any intermediary reading their messages.  
 This feeling is also why I built my E2EE group chat project:  
 👉 https://github.com/smallzhong/E2EEGroupChat
@@ -24,10 +26,9 @@ If you prefer not to receive Monero, I can instead send **20 RMB** via Alipay or
 
 To avoid confusion in case I’m not at my computer when the message arrives, you may also **take a screenshot of the message you sent** and email it to me as proof that you were the first.
 
-Once someone wins, I will replace this section with:  
-``Reward claimed – the 0.0078 XMR has already been sent.``
-
 ---
+
+``奖励已被领取 —— 0.0078 XMR 已发放。``
 
 我一直很喜欢 **端到端加密（E2EE）**。不仅因为它更隐私，还因为它本身有一种很优雅的感觉——两个人可以在没有任何中介知情的情况下交流。  
 也正是这种喜欢促使我写了这个 E2EE 群聊项目：  
@@ -41,7 +42,5 @@ Once someone wins, I will replace this section with:
 **第一个通过 Bitmessage 或 Ricochet Refresh 联系到我，并提供门罗币地址的人，可以获得 0.0078 XMR。**  
 如果你不想收 XMR，我也可以通过 **支付宝 / 微信** 给你转 **20 元人民币**。
 
-为了避免我不在电脑前导致没及时看到消息，你可以在发送消息后 **截图并发邮件给我**，用于证明你确实是第一个联系到我的。
+为了避免我不在电脑前导致没及时看到消息，你可以在发送消息后 **截图并发邮件给我**，用于证明你确实是第一个联系到我的。 
 
-有人领取后，我会把这里替换为：  
-``奖励已被领取 —— 0.0078 XMR 已发放。``
